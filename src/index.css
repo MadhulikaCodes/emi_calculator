@@ -19,3 +19,10 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
+.input{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
